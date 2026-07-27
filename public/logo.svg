@@ -1,0 +1,28 @@
+<svg width="640" height="220" viewBox="0 0 640 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="220" rx="24" fill="#050505"/>
+  <rect x="18" y="18" width="604" height="184" rx="18" stroke="#FF2D6B" stroke-opacity="0.25"/>
+  <circle cx="188" cy="110" r="74" fill="url(#glow)"/>
+  <path d="M148 84C148 70.7452 158.745 60 172 60H206C219.255 60 230 70.7452 230 84V96C230 109.255 219.255 120 206 120H172C158.745 120 148 109.255 148 96V84Z" fill="#FF2D6B"/>
+  <path d="M124 110C124 88.4609 141.461 71 163 71H211C232.539 71 250 88.4609 250 110V112C250 133.539 232.539 151 211 151H163C141.461 151 124 133.539 124 112V110Z" fill="#FF2D6B"/>
+  <path d="M136 112C136 84.3858 158.386 62 186 62H190C217.614 62 240 84.3858 240 112V114C240 141.614 217.614 164 190 164H186C158.386 164 136 141.614 136 114V112Z" fill="#0F0F1D"/>
+  <path d="M138 114C138 85.2812 161.281 62 190 62H191C219.719 62 243 85.2812 243 114V116C243 144.719 219.719 168 191 168H190C161.281 168 138 144.719 138 116V114Z" stroke="#FF2D6B" stroke-width="4"/>
+  <path d="M159 95C159 86.1634 166.163 79 175 79H190C198.837 79 206 86.1634 206 95V99C206 107.837 198.837 115 190 115H175C166.163 115 159 107.837 159 99V95Z" fill="#FF5C8A"/>
+  <circle cx="177" cy="97" r="4" fill="#050505"/>
+  <circle cx="197" cy="97" r="4" fill="#050505"/>
+  <path d="M170 129C176 138 184 143 190 143C196 143 204 138 210 129" stroke="#FF2D6B" stroke-width="4" stroke-linecap="round"/>
+  <path d="M154 106C154 106 145 101 136 102" stroke="#FF2D6B" stroke-width="4" stroke-linecap="round"/>
+  <path d="M226 106C226 106 235 101 244 102" stroke="#FF2D6B" stroke-width="4" stroke-linecap="round"/>
+  <path d="M142 85C142 85 123 80 108 84" stroke="#FF2D6B" stroke-width="4" stroke-linecap="round"/>
+  <path d="M238 85C238 85 257 80 272 84" stroke="#FF2D6B" stroke-width="4" stroke-linecap="round"/>
+  <path d="M118 132C118 132 99 122 84 126" stroke="#FF2D6B" stroke-width="4" stroke-linecap="round"/>
+  <path d="M262 132C262 132 281 122 296 126" stroke="#FF2D6B" stroke-width="4" stroke-linecap="round"/>
+  <text x="328" y="114" fill="#FFFFFF" font-family="'Black Han Sans', 'Arial Black', sans-serif" font-size="54" letter-spacing="2">CYBER</text>
+  <text x="328" y="158" fill="#FF2D6B" font-family="'Black Han Sans', 'Arial Black', sans-serif" font-size="54" letter-spacing="2">SQUID</text>
+  <text x="328" y="188" fill="#666666" font-family="'Share Tech Mono', monospace" font-size="16" letter-spacing="4">SURVIVE THE SYSTEM</text>
+  <defs>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(188 110) rotate(90) scale(74)">
+      <stop offset="0" stop-color="#FF2D6B" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#FF2D6B" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>

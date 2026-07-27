@@ -1,5 +1,7 @@
 ﻿# Cyber Squid Game
 
+![Cyber Squid Game Logo](public/logo.svg)
+
 A futuristic, browser-based game experience inspired by the Squid Game theme. Built with React and Firebase, this project combines a neon cyberpunk interface with interactive gameplay and a host management dashboard.
 
 ## 🚀 Overview
