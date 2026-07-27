@@ -1,15 +1,15 @@
 ﻿# Cyber Squid Game
 
-Cyber Squid Game is a futuristic, browser-based game experience inspired by the Squid Game theme. Built with React and Firebase, it combines a neon cyberpunk interface with interactive gameplay and a host management dashboard.
+A futuristic, browser-based game experience inspired by the Squid Game theme. Built with React and Firebase, this project combines a neon cyberpunk interface with interactive gameplay and a host management dashboard.
 
-## Overview
+## 🚀 Overview
 
-This project offers two main experiences:
+Cyber Squid Game offers two main experiences:
 
-- Player mode: users can enter a team name, add player information, and begin the game experience.
-- Host mode: a dashboard lets the host monitor players, eliminate players, remove them from the session, and track live game state.
+- Player mode: users can enter a team, add player details, and begin the game experience.
+- Host mode: a control dashboard lets the host monitor players, eliminate players, and manage the live session.
 
-## Features
+## ✨ Features
 
 - Stylish landing screen with player and host actions
 - Team and player registration flow
@@ -18,22 +18,22 @@ This project offers two main experiences:
 - Cyber-themed visuals and animated game UI
 - Challenge-based rounds inspired by the Squid Game concept
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 - React
 - React Scripts
 - Firebase Firestore
 - Firebase Analytics
 
-## Project Structure
+## 📁 Project Structure
 
 - src/App.js - main app view switcher between start, player, and host views
-- src/cyber-squid-game-full.jsx - player gameplay experience and challenge rounds
-- src/HostDashboard.jsx - host control panel and player management UI
+- src/cyber-squid-game-full.jsx - gameplay experience and challenge rounds
+- src/HostDashboard.jsx - host dashboard and player management UI
 - src/firebase.js - Firebase configuration and Firestore setup
 - public/ - static assets for the app
 
-## Getting Started
+## ▶️ Getting Started
 
 1. Install dependencies:
 
@@ -53,16 +53,16 @@ This project offers two main experiences:
    http://localhost:3000
    ```
 
-## Available Scripts
+## 🧪 Available Scripts
 
 - npm start - runs the app in development mode
 - npm run build - builds the app for production
 - npm test - runs the test suite
 
-## Firebase Setup
+## 🔥 Firebase Setup
 
 The app uses Firebase Firestore for player data. Make sure the configuration in src/firebase.js is valid for your Firebase project. If you want to use a different Firebase project, update the config values in that file.
 
-## Notes
+## 📝 Notes
 
-This project is designed as a demo-style interactive experience. It is ideal for learning React, Firebase integration, and building themed UI experiences.
+This project is designed as a demo-style interactive experience and is ideal for learning React, Firebase integration, and building themed UI experiences.
